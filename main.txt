@@ -1,7 +1,8 @@
 https://developer.nvidia.com/cuda-downloads
-
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 nvcc --version
 nvidia-smi
+
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 
